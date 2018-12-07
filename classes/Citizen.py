@@ -1,4 +1,4 @@
-from Person import Person
+from classes.Person import Person
 
 
 class Citizen(Person):
